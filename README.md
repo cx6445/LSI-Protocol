@@ -1,6 +1,6 @@
 # LSI Protocol: Logical Structured Intelligence Governance Architecture
 
-![Version](https://img.shields.io/badge/Version-8.0-blue.svg) ![Language](https://img.shields.io/badge/Language-English%20%7C%20Chinese-green.svg) ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
+![Version](https://img.shields.io/badge/Version-9.0-blue.svg) ![Language](https://img.shields.io/badge/Language-English%20%7C%20Chinese-green.svg) ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)
 
 > **A Governance Architecture to Tame Statistical AI with Logical Constitution.**
 
