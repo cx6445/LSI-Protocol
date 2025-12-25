@@ -8,7 +8,7 @@
 
 ## 📖 Read the Whitepaper / 阅读白皮书
 
-Please select your preferred language to read the full specification (v8.0):
+Please select your preferred language to read the full specification (v9.0):
 
 * 🇨🇳 **[中文版 (完整白皮书)](./LSI_Protocol_v9.0_CN.md)**
 * 🇺🇸 **[English Version](./LSI_Protocol_v9.0_EN.md)**
