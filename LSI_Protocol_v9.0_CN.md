@@ -13,7 +13,8 @@
 | **标题** | **《LSI 协议：逻辑结构化智能治理架构技术白皮书》** |
 | **版本** | **9.0** (Enterprise Release Candidate) |
 | **日期** | 2025-12-25 |
-| **作者** | Yingliang Tan (独立研究) |
+| **作者** | Yingliang Tan (独立研究)|
+| **DOI:** | ORCID:0009-0004-4272-1014 /zenodo.xxxxxxx|
 | **联系方式** | [tylnet@outlook.com](tylnet@outlook.com) |
 | **项目地址** | [https://github.com/cx6445/LSI-Protocol](https://github.com/cx6445/LSI-Protocol) |
 
