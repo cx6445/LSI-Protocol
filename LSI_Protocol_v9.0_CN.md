@@ -14,7 +14,7 @@
 | **版本** | **9.0**  |
 | **日期** | 2025-12-25 |
 | **作者** | Yingliang Tan [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4272--1014-green.svg)](https://orcid.org/0009-0004-4272-1014) 
-| **DOI** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18058676.svg)](https://doi.org/10.5281/zenodo.18058676)|
+| **DOI** | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18058675.svg)](https://doi.org/10.5281/zenodo.18058675)
 | **联系方式** | [tylnet@outlook.com](tylnet@outlook.com) |
 | **项目地址** | [https://github.com/cx6445/LSI-Protocol](https://github.com/cx6445/LSI-Protocol) |
 
