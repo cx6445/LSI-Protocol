@@ -1,21 +1,22 @@
-# LSI Protocol: Technical White Paper on Logical Structured Intelligence Governance Architecture
+# LSI Protocol: Logical Structured Intelligence Governance Architecture
 
-![Version](https://img.shields.io/badge/Version-9.0-blue.svg) ![Status](https://img.shields.io/badge/Status-Enterprise%20Release%20Candidate-orange.svg) ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green.svg)
+![Version](https://img.shields.io/badge/Version-9.0-blue.svg) ![Status](https://img.shields.io/badge/Status-RFC-orange.svg) ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green.svg)
 
-> **An enterprise-grade operating system providing a deterministic governance framework for modern statistical intelligence.**
+> **A Deterministic Path to AGI.**
 
 ---
 
 ## **Document Information**
 
-| Attribute | Content |
+| Property | Value |
 | :--- | :--- |
-| **Title** | **《LSI Protocol: Technical White Paper on Logical Structured Intelligence Governance Architecture》** |
-| **Version** | **9.0** (Enterprise Release Candidate) |
+| **Title** | **LSI Protocol: Logical Structured Intelligence Governance Architecture** |
+| **Version** | **9.0** (Request For Comments) |
 | **Date** | 2025-12-25 |
-| **Author** | Yingliang Tan (Independent Research) |
-| **Contact** | [tylnet@outlook.com](tylnet@outlook.com) |
-| **Project URL** | [https://github.com/cx6445/LSI-Protocol](https://github.com/cx6445/LSI-Protocol) |
+| **Author** | Yingliang Tan [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4272--1014-green.svg)](https://orcid.org/0009-0004-4272-1014) |
+| **DOI** | [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx) *(Pending)* |
+| **Contact** | [tylnet@outlook.com](mailto:tylnet@outlook.com) |
+| **Repository** | [https://github.com/cx6445/LSI-Protocol](https://github.com/cx6445/LSI-Protocol) |
 
 ---
 
