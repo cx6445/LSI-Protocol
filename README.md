@@ -8,71 +8,60 @@
 
 ---
 
-## 📥 Access the Protocol / 进入协议
+## 📖 Access the Specification / 阅读规范
 
-**Please select your preferred language to read the full specification (v9.0):**
-**请选择您偏好的语言版本以阅读完整规范 (v9.0)：**
+**Current Version: v9.0 (RFC)**
+Please select your preferred language to view the full whitepaper:
+请选择您偏好的语言版本以阅读完整白皮书：
 
 *   🇺🇸 **English Version**: [LSI_Protocol_v9.0_EN.md](./LSI_Protocol_v9.0_EN.md)
 *   🇨🇳 **中文完整版**: [LSI_Protocol_v9.0_CN.md](./LSI_Protocol_v9.0_CN.md)
 
 ---
 
-## ⚠️ Cognitive Warning / 认知警告
+## 💡 Introduction / 简介
 
-> **Proceed with Caution:** The documents contained in this repository present a theoretical framework that fundamentally contradicts the current statistical paradigm of AI (Transformer/LLM).
-> **慎读：** 本仓库包含的文档提出了一个从根本上反驳当前人工智能统计范式（Transformer/LLM）的理论框架。
+**LSI (Logical Structured Intelligence)** is an enterprise-grade operating system designed to provide a deterministic governance framework for modern statistical AI (LLMs).
+**LSI (逻辑结构化智能)** 是一个为现代统计型智能（LLM）提供确定性治理框架的企业级操作系统。
 
-**LSI is not a tool; it is a shift in physics.** It does not teach you how to "prompt" a model, but how to "construct" a dissipative structure that metabolizes information. Reading this may irreversibly alter your understanding of **Intelligence**, **Alignment**, and **Entropy**.
+Unlike traditional MoE (Mixture of Experts) which focuses on parameter efficiency, LSI focuses on **Logic Governance**. It introduces a rigid constitutional boundary to probabilistic outputs, ensuring reliability, explainability, and continuous evolution.
+与专注于参数效率的传统 MoE（混合专家）不同，LSI 专注于**逻辑治理**。它为概率性输出引入了刚性的宪法边界，确保了系统的可靠性、可解释性与持续进化能力。
 
-**LSI 不是工具，而是物理学的转向。** 它不教你如何“提示”模型，而是教你如何“构建”一个能够代谢信息的耗散结构。阅读本文可能会不可逆转地改变你对**智能**、**对齐**和**熵**的理解。
-
----
-
-## 🧭 Navigation Guide / 导航指南
-
-The LSI architecture is constructed upon three pillars. When reading the whitepaper, use this coordinate system:
-LSI 架构建立在三大支柱之上。阅读白皮书时，请使用此坐标系：
-
-| Layer / 层级 | Metaphor / 隐喻 | Core Question / 核心问题 | Discipline / 学科域 |
-| :--- | :--- | :--- | :--- |
-| **The Anatomy**<br>(Protocol) | **Skeleton & Organs**<br>骨骼与器官 | **How to Build?**<br>Structure, Routing, Kernel Separation.<br>如何工程化实现算力分层与路由？ | **Software Engineering**<br>软件工程 |
-| **The Regulation**<br>(Dynamics) | **Nerves & Hormones**<br>神经与激素 | **How to Move?**<br>Emotion as Hyper-parameters.<br>焦虑与好奇的数学本质是什么？ | **Control Theory / Neuroscience**<br>控制论 / 神经科学 |
-| **The Physics**<br>(Foundation) | **Physical Laws**<br>物理法则 | **Why it Works?**<br>Thermodynamics on Riemann Manifolds.<br>驱动智能涌现的第一性原理方程。 | **Statistical Physics**<br>统计物理 |
+### Core Philosophy / 核心哲学
+*   **Statistical as Body, Logical as Law.** (统计为体，逻辑为纲)
+*   **Governance is the prerequisite for Intelligence.** (治理是智能的前提)
+*   **Collapse probability into structure.** (将概率坍缩为结构)
 
 ---
 
-## 🗝️ Concept Decoder / 概念解码器
+## 🧩 Key Architecture / 核心架构
 
-To understand LSI, you must perform the following semantic translations:
-要理解 LSI，你必须进行以下语义转译：
+The LSI Protocol is built upon the **Tri-Kernel Architecture**, separating intuition from reasoning:
+LSI 协议建立在**三体内核架构**之上，实现了直觉与推理的物理分离：
 
-1.  **Entropy (熵)** $\neq$ **Chaos (混乱)**
-    *   *Read as:* **Signal for Mode Switching**. High entropy triggers System 3 (Deep Thinking).
-    *   *读作：* **模式切换信号**。高熵意味着系统遇到了未知，必须启动 System 3（深思模式）。
-
-2.  **Emotion (情感)** $\neq$ **Feeling (感受)**
-    *   *Read as:* **Dynamic Hyper-parameters**. Anxiety = High Mutation Rate ($\sigma \uparrow$); Curiosity = Exploration Weight ($\beta \uparrow$).
-    *   *读作：* **动态超参数**。焦虑是变异率的提升，好奇是探索权重的增加。
-
-3.  **Conflict (冲突)** $\neq$ **Error (错误)**
-    *   *Read as:* **Fuel for Evolution**. A system without internal tension is thermodynamically dead.
-    *   *读作：* **进化的燃料**。一个没有内部张力的系统在热力学上是“死”的。
+| Kernel / 内核 | System Mode / 模式 | Role / 角色 | Latency / 延迟 | Description / 描述 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kernel A** | **System 1** (Reflex) | **Speed** | < 100ms | Handles 90% of high-frequency tasks. Instant response, no reasoning chain. <br> 处理90%的高频任务。极速响应，无思维链。 |
+| **Kernel B** | **System 2** (Governance) | **Audit** | 1s - 5s | **The Logic Gatekeeper.** Performs constitutional checks, routing, and Feynman demotion. <br> **逻辑守门人**。执行宪法检查、路由分发与费曼降维。 |
+| **Kernel C** | **System 3** (Deep Think) | **Reason** | 10s+ | Activated only upon conflict/high entropy. Performs sandbox experiments and evolution. <br> 仅在冲突或高熵时激活。执行沙盒实验与认知进化。 |
 
 ---
 
-## 📜 Citation / 引用
+## ⚙️ Logic Flow / 逻辑流
 
-If this protocol influences your research or architecture, please cite the definitive version archived on Zenodo:
-如果本协议影响了您的研究或架构，请引用 Zenodo 上归档的最终版本：
-
-```bibtex
-@techreport{LSI_Protocol_2025,
-  title       = {LSI Protocol: Logical Structured Intelligence Governance Architecture},
-  author      = {Yingliang Tan},
-  year        = {2025},
-  version     = {9.0},
-  institution = {GitHub / Zenodo},
-  doi         = {10.5281/zenodo.xxxxxxx}, 
-  url         = {https://github.com/cx6445/LSI-Protocol}
-}
+```mermaid
+graph TD
+    User[User Input] --> KA{Kernel A: Reflex}
+    KA -->|Low Entropy| Output[Fast Output]
+    KA -->|High Uncertainty| KB{Kernel B: Governance}
+    
+    KB -->|Policy Check Pass| Expert[Expert Execution]
+    KB -->|Logical Conflict| KC{Kernel C: Deep Think}
+    
+    subgraph System 3
+        KC --> Sandbox[Reasoning Sandbox]
+        Sandbox --> LNE[Logical Negentropy Engine]
+    end
+    
+    LNE --> NewKnowledge[Knowledge Consolidation]
+    NewKnowledge --> Output
