@@ -36,7 +36,7 @@ The LSI Protocol is built upon the **Tri-Kernel Architecture**, separating intui
 | Kernel | System Mode | Role | Latency | Description |
 | :--- | :--- | :--- | :--- | :--- |
 | **Kernel A** | **System 1** (Reflex) | **Speed** | <100ms | Handles 90% of high-frequency tasks. Instant response, no reasoning chain. |
-| **Kernel B** | **System 2** (Governance) | **Audit** | 1s - 5s | **The Logic Gatekeeper.** Performs constitutional checks, routing, and Feynman demotion. |
+| **Kernel B** | **System 2** (Governance) | **Audit** | 1s - 10s | **The Logic Gatekeeper.** Performs constitutional checks, routing, and Feynman demotion. |
 | **Kernel C** | **System 3** (Deep Think) | **Reason** | 10s+ | Activated only upon conflict/high entropy. Performs sandbox experiments and evolution. |
 
 ---
