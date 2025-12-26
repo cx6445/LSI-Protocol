@@ -1,8 +1,8 @@
 # LSI 协议：逻辑结构化智能治理架构技术白皮书
 
-![版本](https://img.shields.io/badge/版本-9.0-blue.svg) ![状态](https://img.shields.io/badge/状态-企业级候选版-orange.svg) ![协议](https://img.shields.io/badge/开源协议-CC%20BY--SA%204.0-green.svg)
+![版本](https://img.shields.io/badge/版本-9.0-blue.svg) ![状态](https://img.shields.io/badge/状态-架构协议-lightgrey.svg) ![协议](https://img.shields.io/badge/开源协议-CC%20BY--SA%204.0-green.svg)
 
-> **一个为现代统计型智能提供确定性治理框架的企业级操作系统。**
+> **一条通往 AGI 的确定性路径。**
 
 ---
 
