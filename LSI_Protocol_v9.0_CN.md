@@ -11,7 +11,7 @@
 | 属性 | 内容 |
 | :--- | :--- |
 | **标题** | **《LSI 协议：逻辑结构化智能治理架构技术白皮书》** |
-| **版本** | **9.0** (Enterprise Release Candidate) |
+| **版本** | **9.0**  |
 | **日期** | 2025-12-25 |
 | **作者** | Yingliang Tan [![ORCID](https://img.shields.io/badge/ORCID-0009--0004--4272--1014-green.svg)](https://orcid.org/0009-0004-4272-1014) 
 | **DOI** | [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx) *(预留后填入)* |
