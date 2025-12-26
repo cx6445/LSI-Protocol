@@ -1,7 +1,7 @@
 # LSI Protocol: Logical Structured Intelligence Governance Architecture
 # LSI 协议：逻辑结构化智能治理架构
 
-![Version](https://img.shields.io/badge/Version-9.0-blue.svg) ![Status](https://img.shields.io/badge/Status-RFC-orange.svg) ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green.svg) 
+![Version](https://img.shields.io/badge/Version-9.0-blue.svg) ![Status](https://img.shields.io/badge/Status-RFC-orange.svg) ![License](https://img.shields.io/badge/License-CC%20BY--SA%204.0-green.svg) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18058676.svg)](https://doi.org/10.5281/zenodo.18058676)
 
 > **A Deterministic Path to AGI.**
 > **一条通往 AGI 的确定性路径。**
